@@ -78,7 +78,7 @@ public class JettraJWT {
         return new Date(exp * 1000);
     }
 
-    private Map<String, Object> getPayload(String token) {
+    public Map<String, Object> getPayload(String token) {
         String[] parts = token.split("\\.");
         return JettraJson.parse(base64UrlDecode(parts[1]));
     }
