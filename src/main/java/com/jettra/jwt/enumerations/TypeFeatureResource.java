@@ -8,6 +8,6 @@ package com.jettra.jwt.enumerations;
  *
  * @author avbravo
  */
-public enum TypeAcreditationOptions {
+public enum TypeFeatureResource {
     PAGE, MENU,SUBMENU,METHODS, CONTROLLER
 }
