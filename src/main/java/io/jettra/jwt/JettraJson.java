@@ -1,4 +1,4 @@
-package com.jettra.jwt;
+package io.jettra.jwt;
 
 import java.util.HashMap;
 import java.util.Map;

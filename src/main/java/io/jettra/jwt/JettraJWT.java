@@ -1,4 +1,4 @@
-package com.jettra.jwt;
+package io.jettra.jwt;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
