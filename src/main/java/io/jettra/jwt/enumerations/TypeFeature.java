@@ -8,6 +8,6 @@ package io.jettra.jwt.enumerations;
  *
  * @author avbravo
  */
-public enum TypeFeatureResource {
+public enum TypeFeature {
     PAGE, MENU,SUBMENU,METHODS, CONTROLLER
 }
